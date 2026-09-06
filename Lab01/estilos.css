@@ -1,9 +1,16 @@
 body {
-  background-color: #ffffff;
+  background-color: #ffff;
   background-image: url("gatoUnsa.jpg");
   background-repeat: no-repeat;
-  background-position: center -80%;
-  margin-right: 100px;
+  background-position: right bottom;
+  background-size: 500px auto;
+  background-attachment: fixed;
+  margin: 0 20px;
+  line-height: 1.4;
+}
+
+header, main {
+  max-width: 800px;
 }
 
 h1 {
@@ -11,7 +18,27 @@ h1 {
   text-align: center;
 }
 
+h2, h3 {
+  color: rgb(39, 2, 51);
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+h4, h5, h6 {
+  color: rgb(39, 2, 51);
+  font-size: 18px;
+  font-family: "Trebuchet MS", sans-serif;
+  margin-bottom: 3px;
+  margin-top: 10px;
+}
+
 p {
-  font-family: comic sans ms;
+  font-family: "Comic Sans MS", cursive;
   font-size: 15px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+section {
+  margin-bottom: 15px;
 }
