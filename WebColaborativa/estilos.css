@@ -1,0 +1,29 @@
+body {
+  background-color: #ffff;
+}
+
+h1 {
+  color: rgb(177, 12, 12);
+  text-align: center;
+  margin-bottom: 3px;
+  margin-top: 15px;
+  text-decoration: underline;
+  text-decoration-color: rgb(177, 12, 12);
+}
+
+
+h2 {
+  color: rgb(153, 10, 10);
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  margin-bottom: 3px;
+  margin-top: 10px;
+  text-decoration: underline;
+  text-decoration-color: #470303;
+  text-decoration-thickness: 1.5px;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+}
