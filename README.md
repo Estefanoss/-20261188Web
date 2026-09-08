@@ -1,1 +1,1 @@
-archivo readme
+En este repositorio se guardaran mis proyectos del curso de Introducción al desarrollo web.
